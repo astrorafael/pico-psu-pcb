@@ -1,5 +1,22 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4a26d55b-d5ad-4ec0-afdb-120d1c6c73f1)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "Programmable constant current power supply")
+    (date "2023-07-25")
+    (rev "v0.1")
+    (comment 1 "Rafael González")
+    (comment 2 "UCM")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
